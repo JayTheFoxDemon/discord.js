@@ -80,6 +80,6 @@ Before creating an issue, please ensure that it hasn't already been reported/sug
 [documentation](https://discord.js.org/#/docs).  
 See [the contribution guide](https://github.com/hydrabolt/discord.js/blob/master/.github/CONTRIBUTING.md) if you'd like to submit a PR.
 
-## Help
+## Help 
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
 nudge in the right direction, please don't hesitate to join our official [Discord.js Server](https://discord.gg/bRCvFy9).
